@@ -1,0 +1,7 @@
+{
+  "name": "challengeme",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
